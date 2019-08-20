@@ -1,7 +1,10 @@
 # Quasar Chart JS
 
-A Quasar Project using Chartjs <br/>
-Please follow the link <a href="https://www.fabianzamudio.com/blog/exprimiendo-vuejs-con-quasar"></a>
+A Quasar Project using Chartjs
+
+# Documentatiton
+Please click in the following link See [FabianZamudio.com](https://www.fabianzamudio.com/blog/exprimiendo-vuejs-con-quasar) <br />
+See [Quasar.dev](https://quasar.dev/start/pick-quasar-flavour).
 
 # Quasar App (quasar)
 
